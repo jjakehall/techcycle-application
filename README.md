@@ -1,5 +1,6 @@
 # TEchcycle Application
 
-The final project I completed at Tech Elevator. This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
+The final project I completed at Tech Elevator. Website for finding nearby and ideal cycling routes and paths, logging
+ride details, and storing user information. Developed with team of three developers using Agile methodologies,
+Java, Spring, PostgreSQL, HTML, CSS, Vue.js framework, and BootstrapVue.
 
-Each project contains instructions that provides information about the starting code and explains how to get started with the final capstone project.

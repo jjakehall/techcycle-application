@@ -1,4 +1,4 @@
-# Final Capstone
+# TEchcycle Application
 
 The final project I completed at Tech Elevator. This directory contains all of the starter projects for the final capstone. The Vue starter project works with both the Java and .NET backend projects with a single configuration update that you can read about in the README.
 
